@@ -43,6 +43,7 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 # 🎖 Honors and Awards
 - *2023.10* The First Prize in the 15th National Student Pharmaceutical Forum
 - *2023.10* The Outstanding Paper Award in the 15th National Student pharmaceutical Forum 
+![1](images/forum1.png)
 - *2022.10* The Second Prize in the National English Speech Contest of Uchallenge
 - *2022.09* Merit Students, China Pharmaceutical University
 - *2022.09* Scholarships - Outstanding Students
