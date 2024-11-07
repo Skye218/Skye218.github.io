@@ -43,17 +43,20 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 # 🎖 Honors and Awards
 - *2023.10* The First Prize in the 15th National Student Pharmaceutical Forum
 - *2023.10* The Outstanding Paper Award in the 15th National Student pharmaceutical Forum 
-- 
+- *2022.10* The Second Prize in the National English Speech Contest of Uchallenge
+- *2022.09* Merit Students, China Pharmaceutical University
+- *2022.09* Scholarships - Outstanding Students
+- ** photography
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 - 2024.11 (now)*, Department of Pharmarcy, China Pharmaceutical University 
+ 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [videovideo](https://github.com/)
 
-# 💻 Internships
+# 💻 Voluntary Work
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
