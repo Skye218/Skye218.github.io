@@ -28,7 +28,7 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='pub-fig1.png'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/pub-fig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Discovery of FLT3-targeting PROTACs with potent antiproliferative activity against acute myeloid leukemia cells harboring FLT3 mutations](https://doi.org/10.1016/j.ejmech.2024.116237)
@@ -41,7 +41,8 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 
 # 🎖 Honors and Awards
 
-<img src='forum2.png' width="110" height="140" align="left" /><img src='forum1.png' width="110" height="140" align="left" /> 
+![1](images/android-chrome-512x512.png)
+<img src='images/forum2.png' width="110" height="140" align="left" /><img src='images/forum1.png' width="110" height="140" align="left" /> 
 
 - *2023.10* The First Prize in the 15th National Student Pharmaceutical Forum  
 - *2023.10* The Outstanding Paper Award in the 15th National Student pharmaceutical Forum  
@@ -81,7 +82,7 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 ### 12
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
