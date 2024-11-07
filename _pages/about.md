@@ -19,7 +19,6 @@ redirect_from:
 
 这一行上面都别改
 I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at China Pharmaceutical University.
-这个地方是你的个人简历，最上面那一坨字。
 
 
 
@@ -29,7 +28,7 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='pub-fig1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='pub-fig1.png'></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Discovery of FLT3-targeting PROTACs with potent antiproliferative activity against acute myeloid leukemia cells harboring FLT3 mutations](https://doi.org/10.1016/j.ejmech.2024.116237)
@@ -41,9 +40,11 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 </div>
 
 # 🎖 Honors and Awards
-<img src='forum2.png' width="110" height="140" align="left" /> *2023.10* The First Prize in the 15th National Student Pharmaceutical Forum<br />
 
-<img src='forum1.png' width="110" height="140" align="left" /> *2023.10* The Outstanding Paper Award in the 15th National Student pharmaceutical Forum<br />
+<img src='forum2.png' width="110" height="140" align="left" /><img src='forum1.png' width="110" height="140" align="left" /> 
+
+- *2023.10* The First Prize in the 15th National Student Pharmaceutical Forum  
+- *2023.10* The Outstanding Paper Award in the 15th National Student pharmaceutical Forum  
 - *2022.10* The Second Prize in the National English Speech Contest of Uchallenge
 - *2022.09* Merit Students, China Pharmaceutical University
 - *2022.09* Scholarships - Outstanding Students
