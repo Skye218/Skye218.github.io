@@ -40,8 +40,6 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 </div>
 
 # 🎖 Honors and Awards
-
-![1](images/android-chrome-512x512.png)
 <img src='images/forum2.png' width="110" height="140" align="left" /><img src='images/forum1.png' width="110" height="140" align="left" /> 
 
 - *2023.10* The First Prize in the 15th National Student Pharmaceutical Forum  
