@@ -76,11 +76,11 @@ Qindi He, Xiaofei Zhao, Donglin Wu, Siming Jia, **Canlin Liu**, Zitian Cheng, Fe
 - *2022.09* Merit Students, China Pharmaceutical University
 - *2022.09* Scholarships - Outstanding Students
 
-# 🏃 Hobbies- Mountain Climbing, Hiking
-<img src='images/mountain1.png' width="180" height="180" align="left" /> <img src='images/mountain2.png' width="110" height="180" align="left" />
+# 🏃 Hobbies
+<img src='images/mountain4.png' width="180" height="180" align="left" /> <img src='images/mountain3.png' width="100" height="180" align="left" />
 
-- Mountain Climbing
-- Hiking
-- **"Climb mountains not so the world can see you, but so you can see the world."** — David McCullough Jr.
+- **Mountain Climbing**
+- **Hiking**
+- **"Climb mountains not so the world can see you, but so you can see the world."** 
 
 
