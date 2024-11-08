@@ -33,9 +33,12 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 
 [Discovery of FLT3-targeting PROTACs with potent antiproliferative activity against acute myeloid leukemia cells harboring FLT3 mutations](https://doi.org/10.1016/j.ejmech.2024.116237)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Zhijie Wang, Xun Lu, **Canlin Liu**(co-first author), Fei Huang, Tao Lu, Yadong Chen, Lifei Liu, Shuai Lu
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A FLT3 PROTAC molecule 35 with novel structure was discovered.
+- Comparative MD simulations elucidated the mechanism of 35 to stabilize the FLT3—35—CRBN ternary complex.
+- The “zipper” mechanism of 35 was first proposed in the field of PROTACs.
+- 35 possessed selective antiproliferative activities against FLT3-mutated AML cells.
 </div>
 </div>
 
