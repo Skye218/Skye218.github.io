@@ -39,6 +39,31 @@ Zhijie Wang, Xun Lu, **Canlin Liu**(co-first author), Fei Huang, Tao Lu, Yadong 
 - Comparative MD simulations elucidated the mechanism of 35 to stabilize the FLT3—35—CRBN ternary complex.
 - The “zipper” mechanism of 35 was first proposed in the field of PROTACs.
 - 35 possessed selective antiproliferative activities against FLT3-mutated AML cells.
+
+***
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/pub2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rational discovery of dual FLT3/HDAC inhibitors as a potential AML therapy](https://doi.org/10.1016/j.ejmech.2023.115759)
+
+Zhijie Wang, Donglin Wu, Xiaofei Zhao, **Canlin Liu**, Siming Jia, Qindi He, Fei Huang, Zitian Cheng, Tao Lu, Yadong Chen, Yun Chen, Pei Yang, Shuai Lu
+
+- New therapies are urgently needed for patients with AML.
+- Dual FLT3/HDAC inhibitors were got by structure design strategy for the first time.
+- 63 effectively inhibited the proliferation of MV4-11 cells.
+- Antitumor activity was dependent on the dual inhibition of FLT3 and HDAC1.
+
+***
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/pub3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hydrophobic tag-based protein degradation: Development, opportunity and challenge](https://www.sciencedirect.com/science/article/abs/pii/S0223523423007080?via%3Dihub)
+
+Qindi He, Xiaofei Zhao, Donglin Wu, Siming Jia, **Canlin Liu**, Zitian Cheng, Fei Huang, Yadong Chen, Tao Lu, Shuai Lu
+
+- Hydrophobic tagged proteins are efficiently degraded.
+- Hydrophobic tag-mediated protein degradation occur through various pathways.
+- Hydrophobic tag-based protein degradation has better drug likeness properties.
 </div>
 </div>
 
