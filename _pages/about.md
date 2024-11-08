@@ -33,7 +33,7 @@ I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at Chin
 
 [Discovery of FLT3-targeting PROTACs with potent antiproliferative activity against acute myeloid leukemia cells harboring FLT3 mutations](https://doi.org/10.1016/j.ejmech.2024.116237)
 
-Zhijie Wang, Xun Lu, **Canlin Liu**(co-first author), Fei Huang, Tao Lu, Yadong Chen, Lifei Liu, Shuai Lu
+Zhijie Wang\*, Xun Lu\*, **Canlin Liu\***(co-first author), Fei Huang, Tao Lu, Yadong Chen, Lifei Liu, Shuai Lu
 
 - A FLT3 PROTAC molecule 35 with novel structure was discovered.
 - Comparative MD simulations elucidated the mechanism of 35 to stabilize the FLT3—35—CRBN ternary complex.
@@ -84,8 +84,12 @@ Qindi He, Xiaofei Zhao, Donglin Wu, Siming Jia, **Canlin Liu**, Zitian Cheng, Fe
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [videovideo](https://github.com/)
 
-# 💻 Voluntary Work
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🏃 Hobbies
+<img src='images/mountain1.png' width="140" height="140" align="left" /><img src='images/mountain2.png' width="100" height="140" align="left" /> 
+
+- Mountain Climbing
+- Hiking
+**"Climb mountains not so the world can see you, but so you can see the world." — David McCullough Jr.**
 
 
 
