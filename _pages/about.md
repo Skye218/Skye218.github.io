@@ -67,7 +67,7 @@ Qindi He, Xiaofei Zhao, Donglin Wu, Siming Jia, **Canlin Liu**, Zitian Cheng, Fe
 </div>
 
 # 🎖 Honors and Awards
-<img src='images/forum2.png' width="280" height="140" align="left" /><img src='images/forum1.png' width="110" height="140" align="left" /> 
+<img src='images/forum2.png' width="240" height="180" align="left" />
 
 - *2023.10* The First Prize in the 15th National Student Pharmaceutical Forum  
 - *2023.10* The Outstanding Paper Award in the 15th National Student pharmaceutical Forum  
@@ -83,44 +83,8 @@ Qindi He, Xiaofei Zhao, Donglin Wu, Siming Jia, **Canlin Liu**, Zitian Cheng, Fe
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [videovideo](https://github.com/)
 
-# 🏃 Hobbies
-<img src='images/mountain1.png' width="140" height="140" align="left" /><img src='images/mountain2.png' width="100" height="140" align="left" /> 
-
-- Mountain Climbing
-- Hiking
-**"Climb mountains not so the world can see you, but so you can see the world." — David McCullough Jr.**
+# 🏃 Hobbies- Mountain Climbing, Hiking
+<img src='images/mountain1.png' width="180" height="180" align="left" /><img src='images/mountain2.png' width="100" height="140" align="right" /> 
 
 
 
-无序列表
-- asd
-
-插入照片
-![1](images/android-chrome-512x512.png)
-
-斜体
-*123*
-
-粗
-**123**
-
-大标题
-# 12
-## 12
-### 12
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-你要改images/500x300.png这个东西，这个是论文摘选图片，别人一看就知道你做了什么的最好，然后放在images文件夹下面，images/500x300.png就代表这个图片的位置500x300.png就是图片名字
-
-https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf这个是你论文的地址
