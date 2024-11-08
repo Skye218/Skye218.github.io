@@ -21,10 +21,10 @@ I'm currently a senior student in China Pharmaceutical Univeristy. I majoy in Me
 
 
 
-# 📖 Educations
+# 🎓 Educations
 - *2021.06 - 2024.11 (now)*, Department of Pharmarcy, China Pharmaceutical University 
 
-# 📝 Publications 
+# 🔍 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/pub-fig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,7 +67,7 @@ Qindi He, Xiaofei Zhao, Donglin Wu, Siming Jia, **Canlin Liu**, Zitian Cheng, Fe
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🌟 Honors and Awards
 <img src='images/forum2.png' width="320" height="240" align="left" />
 
 - *2023.10* The First Prize in the 15th National Student Pharmaceutical Forum  
