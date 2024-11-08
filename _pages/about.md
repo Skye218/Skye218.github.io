@@ -37,7 +37,8 @@ Zhijie Wang\*, Xun Lu\*, **Canlin Liu\***(co-first author), Fei Huang, Tao Lu, Y
 - The “zipper” mechanism of 35 was first proposed in the field of PROTACs.
 - 35 possessed selective antiproliferative activities against FLT3-mutated AML cells.
 
-***
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/pub2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +51,8 @@ Zhijie Wang, Donglin Wu, Xiaofei Zhao, **Canlin Liu**, Siming Jia, Qindi He, Fei
 - 63 effectively inhibited the proliferation of MV4-11 cells.
 - Antitumor activity was dependent on the dual inhibition of FLT3 and HDAC1.
 
-***
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/pub3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
