@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a senior student in China Pharmaceutical Univeristy. I majoy in Medicinal Chemistry and I'll get my Bachelor's Degree in 2025. From my point of view, progressing in Pharmaceutical Science demands a commitment to research and staying at the cutting edge of drug discovery, development, and delivery. I Familiarize myself with recent advancements in genomics, computational biology, and bioinformatics, as they increasingly play a role in drug development.
+I'm currently a senior student in China Pharmaceutical Univeristy. I majoy in Medicinal Chemistry and I'll get my Bachelor's Degree in 2025. From my point of view, progressing in Pharmaceutical Science demands a commitment to research and staying at the cutting edge of drug discovery and development. I familiarize myself with recent advancements in cancer therapy,pharmacology and computational biology, as they increasingly play a role in drug development.
 
 
 
-# 🎓 Educations
-- *2021.06 - 2024.11 (now)*, Department of Pharmarcy, China Pharmaceutical University 
+# 🎓 Education
+- *2021.09 - 2024.11 (now)*, School of Pharmarcy, China Pharmaceutical University, Nanjing China
 
 # 🔍 Publications 
 
@@ -77,7 +77,7 @@ Qindi He, Xiaofei Zhao, Donglin Wu, Siming Jia, **Canlin Liu**, Zitian Cheng, Fe
 - *2022.09* Scholarships - Outstanding Students
 
 # 🏃 Hobbies
-<img src='images/mountain4.png' width="180" height="180" align="left" /> <img src='images/mountain3.png' width="105" height="180" align="left" />
+<img src='images/mountain5.png' width="300" height="300" align="left" /> 
 
 - Mountain Climbing
 - Hiking
