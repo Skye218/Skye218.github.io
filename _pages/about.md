@@ -17,14 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-这一行上面都别改
-I am a senior student advised by Professor Shuai Lu and Professor Tao Lu at China Pharmaceutical University.
+I'm currently a senior student in China Pharmaceutical Univeristy. I majoy in Medicinal Chemistry and I'll get my Bachelor's Degree in 2025. From my point of view, progressing in Pharmaceutical Science demands a commitment to research and staying at the cutting edge of drug discovery, development, and delivery. I Familiarize myself with recent advancements in genomics, computational biology, and bioinformatics, as they increasingly play a role in drug development.
 
 
 
-# 🔥 News
-- *2024.02*: &nbsp;🎉🎉 ""
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
