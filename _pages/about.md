@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a senior student in China Pharmaceutical Univeristy. I majoy in Medicinal Chemistry and I'll get my Bachelor's Degree in 2025. From my point of view, progressing in Pharmaceutical Science demands a commitment to research and staying at the cutting edge of drug discovery and development. I familiarize myself with recent advancements in cancer therapy,pharmacology and computational biology, as they increasingly play a role in drug development.
+I'm currently a senior student in China Pharmaceutical Univeristy. I majoy in Medicinal Chemistry and I'll get my Bachelor's Degree in 2025. I built a solid foundation in Biochemistry, Molecular Biology, and Organic Chemistry during my undergraduate studies, developing a strong interest in biochemistry’s complex molecular interactions. My research includes work in synthetic chemistry on small molecule inhibitors and hands-on immunology experience, where I mastered techniques such as Western Blotting and PCR. Currently, I’m working on a project to develop RIPK1 inhibitors, combining my chemistry and biochemistry skills to drive innovative research forward.
 
 
 
@@ -71,7 +71,7 @@ Qindi He, Xiaofei Zhao, Donglin Wu, Siming Jia, **Canlin Liu**, Zitian Cheng, Fe
 <img src='images/forum2.png' width="320" height="240" align="left" />
 
 - *2023.10* The First Prize in the 15th National Student Pharmaceutical Forum  
-- *2023.10* The Outstanding Paper Award in the 15th National Student pharmaceutical Forum  
+- *2023.10* The Outstanding Paper Award in the 15th National Student Pharmaceutical Forum  
 - *2022.10* The Second Prize in the National English Speech Contest of Uchallenge
 - *2022.09* Merit Students, China Pharmaceutical University
 - *2022.09* Scholarships - Outstanding Students
